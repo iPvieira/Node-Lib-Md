@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Projeto de verificacao de markdown",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iPvieira/Node-Lib-Md.git"
+  },
+  "author": "Joao Yoshio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iPvieira/Node-Lib-Md/issues"
+  },
+  "homepage": "https://github.com/iPvieira/Node-Lib-Md#readme",
+  "dependencies": {
+    "chalk": "^5.1.0"
+  }
+}
